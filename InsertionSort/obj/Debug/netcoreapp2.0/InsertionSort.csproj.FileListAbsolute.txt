@@ -1,0 +1,11 @@
+C:\Users\Alfredo\source\repos\SortingAlgorithms\InsertionSort\bin\Debug\netcoreapp2.0\InsertionSort.deps.json
+C:\Users\Alfredo\source\repos\SortingAlgorithms\InsertionSort\bin\Debug\netcoreapp2.0\InsertionSort.runtimeconfig.json
+C:\Users\Alfredo\source\repos\SortingAlgorithms\InsertionSort\bin\Debug\netcoreapp2.0\InsertionSort.runtimeconfig.dev.json
+C:\Users\Alfredo\source\repos\SortingAlgorithms\InsertionSort\bin\Debug\netcoreapp2.0\InsertionSort.dll
+C:\Users\Alfredo\source\repos\SortingAlgorithms\InsertionSort\bin\Debug\netcoreapp2.0\InsertionSort.pdb
+C:\Users\Alfredo\source\repos\SortingAlgorithms\InsertionSort\obj\Debug\netcoreapp2.0\InsertionSort.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\source\repos\SortingAlgorithms\InsertionSort\obj\Debug\netcoreapp2.0\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo\source\repos\SortingAlgorithms\InsertionSort\obj\Debug\netcoreapp2.0\InsertionSort.AssemblyInfoInputs.cache
+C:\Users\Alfredo\source\repos\SortingAlgorithms\InsertionSort\obj\Debug\netcoreapp2.0\InsertionSort.AssemblyInfo.cs
+C:\Users\Alfredo\source\repos\SortingAlgorithms\InsertionSort\obj\Debug\netcoreapp2.0\InsertionSort.dll
+C:\Users\Alfredo\source\repos\SortingAlgorithms\InsertionSort\obj\Debug\netcoreapp2.0\InsertionSort.pdb
