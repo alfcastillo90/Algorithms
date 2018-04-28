@@ -1,0 +1,11 @@
+C:\Users\Alfredo\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\netcoreapp2.0\SortingAlgorithms.deps.json
+C:\Users\Alfredo\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\netcoreapp2.0\SortingAlgorithms.runtimeconfig.json
+C:\Users\Alfredo\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\netcoreapp2.0\SortingAlgorithms.runtimeconfig.dev.json
+C:\Users\Alfredo\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\netcoreapp2.0\SortingAlgorithms.dll
+C:\Users\Alfredo\source\repos\SortingAlgorithms\SortingAlgorithms\bin\Debug\netcoreapp2.0\SortingAlgorithms.pdb
+C:\Users\Alfredo\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\netcoreapp2.0\SortingAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\Alfredo\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\netcoreapp2.0\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Alfredo\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\netcoreapp2.0\SortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\Alfredo\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\netcoreapp2.0\SortingAlgorithms.AssemblyInfo.cs
+C:\Users\Alfredo\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\netcoreapp2.0\SortingAlgorithms.dll
+C:\Users\Alfredo\source\repos\SortingAlgorithms\SortingAlgorithms\obj\Debug\netcoreapp2.0\SortingAlgorithms.pdb
