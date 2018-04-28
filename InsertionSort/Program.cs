@@ -26,7 +26,7 @@ namespace InsertionSort
             {
                 Console.Write(val + ",");
             }
-            Console.ReadLine()
+            Console.ReadLine();
         }
     }
 }
